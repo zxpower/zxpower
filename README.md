@@ -1,5 +1,5 @@
 ### Dr. Reinholds Zviedris
-#### DevOps Engineer (AWS / Terraform / Kubernetes / Docker), System Architect, Generalist
+#### DevOps Engineer (AWS, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist
 
 ![HitCount](http://hits.dwyl.com/zxpower/zxpower.svg)
 
