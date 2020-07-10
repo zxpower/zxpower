@@ -1,7 +1,7 @@
 ### Dr. Reinholds Zviedris
 #### DevOps Engineer (AWS / Terraform / Kubernetes / Docker), System Architect, Generalist
 
-![zxpower](https://rushter.com/counter.svg)
+![HitCount](http://hits.dwyl.com/zxpower/zxpower.svg)
 
 More info about me and contacts you can find in [Estivador.io](https://estivador.io/).
 
