@@ -3,7 +3,7 @@
 
 ![image title](https://rushter.com/counter.svg)
 
-More info about me you can find in [Estivador.io](https://estivador.io/)
+More info about me and contacts you can find in [Estivador.io](https://estivador.io/).
 
 <!--
 **zxpower/zxpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
