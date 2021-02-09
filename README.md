@@ -1,6 +1,6 @@
 ### Dr. Reinholds Zviedris
 
-** ✨ DevOps Engineer / SRE ✨ (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist **
+✨ **DevOps Engineer / SRE (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist** ✨
 
 ![HitCount](http://hits.dwyl.com/zxpower/zxpower.svg)
 
