@@ -1,9 +1,9 @@
 ### Dr. Reinholds Zviedris
-#### DevOps Engineer (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist
+#### ✨ DevOps Engineer / SRE ✨ (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist
 
 ![HitCount](http://hits.dwyl.com/zxpower/zxpower.svg)
 
-More info about me and contacts you can find in [Estivador.io](https://estivador.io/).
+More info about me and my contacts you can find in [Estivador.io](https://estivador.io/).
 
 Some of my Github stats:
 
