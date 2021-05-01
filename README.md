@@ -2,8 +2,6 @@
 
 ✨ **DevOps Engineer / SRE (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist** ✨
 
-![HitCount](http://hits.dwyl.com/zxpower/zxpower.svg)
-
 I'm xennial neo-generalist with PhD in Computer Science from University of Latvia. More info about me and my contacts you can find in [Estivador.io](https://estivador.io/).
 
 Some of my Github stats:
