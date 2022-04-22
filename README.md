@@ -2,7 +2,7 @@
 
 ✨ **DevOps Engineer / SRE (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist** ✨
 
-I'm xennial neo-generalist with PhD in Computer Science from University of Latvia. More info about me and my contacts you can find in [Estivador.io](https://estivador.io/).
+I'm xennial neo-generalist with PhD in Computer Science from [University of Latvia](https://www.lu.lv). More info about me and my contact info you can find in [Estivador.io](https://estivador.io/).
 
 Some of my Github stats:
 
