@@ -1,6 +1,6 @@
 ### Dr. Reinholds Zviedris
 
-✨ **DevOps Engineer / SRE (AWS, GCP, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist** ✨
+✨ **DevOps Engineer / SRE (AWS, GCP, Azure, Terraform, Kubernetes, Docker), Freelancer, Enterpreneur, Generalist** ✨
 
 I'm xennial neo-generalist with PhD in Computer Science from [University of Latvia](https://www.lu.lv). More info about me and my contact info you can find in [Estivador.io](https://estivador.io/).
 
