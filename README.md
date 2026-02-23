@@ -9,7 +9,7 @@
 
 ### Dr. Reinholds Zviedris
 
-✨ **DevSecOps/DevOps Engineer and long time SRE (AWS, GCP, Azure, Terraform, Kubernetes, Docker), Cybersecurity Professional, Freelancer, Enterpreneur, Generalist** ✨
+✨ **Senior DevSecOps / DevOps Engineer and long-time Site Reliability Engineer specializing in AWS, GCP, Azure, Terraform, Kubernetes, and Docker. Cybersecurity Professional and AI Practitioner. Entrepreneurial Freelancer and multidisciplinary Generalist.** ✨
 
 I'm xennial neo-generalist with PhD in Computer Science from [University of Latvia](https://www.lu.lv). More info about me and my contact info you can find in my page [Estivador.io](https://estivador.io/).
 
