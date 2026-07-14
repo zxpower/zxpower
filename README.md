@@ -9,10 +9,21 @@
 
 ### Dr. Reinholds Zviedris
 
-✨ **Senior DevSecOps / DevOps Engineer and long-time Site Reliability Engineer specializing in AWS, GCP, Azure, Terraform, Kubernetes, and Docker. Cybersecurity Professional and AI Practitioner. Entrepreneurial Freelancer and multidisciplinary Generalist.** ✨
+✨ **Platform & Site Reliability Engineer, DevSecOps practitioner, and fractional / interim CTO — 25+ years across software, infrastructure, cloud, security, and technical leadership.** ✨
 
-I'm xennial neo-generalist with PhD in Computer Science from [University of Latvia](https://www.lu.lv). More info about me and my contact info you can find in my page [Estivador.io](https://estivador.io/).
+I'm a xennial neo-generalist with a PhD in Computer Science from [University of Latvia](https://www.lu.lv). Through my boutique practice **[Estivador](https://estivador.io/)** I help technology companies build secure cloud platforms, mature their security and reliability, prepare for SOC 2 and ISO 27001, and step in with hands-on technical leadership when they need it.
 
-Some of my Github stats:
+I gravitate to work where failure is expensive — critical systems, regulated and restricted environments, and cloud migrations — and I favour practical improvements that fit real constraints over fashionable tooling.
 
-[![ZXpower's github stats](https://github-readme-stats.vercel.app/api?username=zxpower&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+#### What I do
+
+- 🏗️ **Platform Engineering & SRE** — cloud architecture, Kubernetes, infrastructure as code, CI/CD, observability, reliability, and cost optimisation
+- 🔐 **Cybersecurity & DevSecOps** — turning security requirements into practical controls across infrastructure, delivery, and identity
+- ✅ **SOC 2 & ISO 27001 enablement** — readiness assessments, control design, remediation, evidence processes, and long-term operation
+- 🧭 **Fractional / Interim CTO** — technical strategy, architecture, engineering standards, hiring, and enterprise readiness
+
+#### Toolbox
+
+AWS · Google Cloud · Azure · Kubernetes · Docker · Terraform · CI/CD · Linux
+
+📫 More about me and how to get in touch: **[estivador.io](https://estivador.io/)** · [LinkedIn](https://www.linkedin.com/in/reinholdszviedris/)
