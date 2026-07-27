@@ -7,7 +7,7 @@
    <br>
 </div>
 
-### Dr. Reinholds Zviedris
+### Reinholds Zviedris, PhD
 
 ✨ **Platform & Site Reliability Engineer, DevSecOps practitioner, and fractional / interim CTO - 25+ years across software, infrastructure, cloud, security, and technical leadership.** ✨
 
